@@ -1,1 +1,1 @@
-# -Yandex Metro mobile app (Android)-
+# Yandex-Metro-mobile-app-(Android)
